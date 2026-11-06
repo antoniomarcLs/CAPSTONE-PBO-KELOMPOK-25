@@ -358,17 +358,44 @@ Admin dapat melihat review yang telah dikirim oleh pengguna dan menghapus review
 
 ![Program](Gambar/Kelola-Review-Admin.png)
 
-### 8.12 Mengelola Kuesioner
+### 8.12 Hapus Review
+Fitur ini digunakan Admin untuk menghapus review pelanggan yang sudah tidak diperlukan. Admin cukup memilih review pada tabel, kemudian menekan tombol Hapus Review. Sistem akan menampilkan konfirmasi sebelum menghapus data dari database. Setelah berhasil, daftar review akan diperbarui secara otomatis.
+
+![Program](Gambar/hapus-review-admin.png)
+
+
+### 8.13 Mengelola Kuesioner
 
 Admin dapat membuat kuesioner baru dengan mengisi judul, deskripsi, dan pertanyaan. Admin juga dapat melihat serta mengubah kuesioner yang sudah tersedia.
 
 ![Program](Gambar/KuesionerAdmin.png)
 
-### 8.13 Logout
+### 8.14 Tambah Kuesioner
+Fitur ini digunakan Admin untuk membuat kuesioner baru dengan mengisi judul, deskripsi, dan daftar pertanyaan. Setelah menekan tombol Simpan, data kuesioner akan disimpan ke database dan dapat diakses oleh pelanggan.
+
+![Program](Gambar/membuat-kuesioner-admin.png)
+
+### 8.15 Detail Kuesioner
+Fitur ini digunakan Admin untuk melihat informasi lengkap dari kuesioner yang dipilih, termasuk judul, deskripsi, dan daftar pertanyaan yang tersedia.
+
+![Program](Gambar/lihat-detail-admin.png)
+
+### 8.16 Ubah Kuesioner
+Fitur ini digunakan untuk memperbarui informasi kuesioner yang sudah dibuat. Admin dapat memilih kuesioner, kemudian mengubah judul, deskripsi, atau pertanyaan sesuai ketentuan sistem. Setelah selesai, perubahan disimpan kembali ke database.
+
+![Program](Gambar/ubah-kuesioner-admin.png)
+
+### 8.17 Hapus Kuesioner
+Fitur ini digunakan untuk menghapus kuesioner yang sudah tidak diperlukan. Admin memilih kuesioner yang ingin dihapus, kemudian menekan tombol Hapus. Sistem akan menampilkan konfirmasi sebelum data dihapus dari database.
+
+![Program](Gambar/hapus-kuesioner-admin.png)
+
+
+### 8.18 Logout
 
 User maupun Admin dapat keluar dari aplikasi dengan menekan tombol Logout. Sistem akan mengakhiri sesi yang sedang aktif dan mengembalikan pengguna ke halaman login.
 
-[Logout]
+![Program](Gambar/logout.png)
 
 
 ## 9. Kontributor
