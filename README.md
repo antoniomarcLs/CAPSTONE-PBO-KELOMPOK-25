@@ -87,7 +87,7 @@ Bagian ini berisi dokumentasi rancangan sistem Feedback FIBER.
 Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan sampai fitur digunakan oleh User maupun Admin.
 
 
-**Flowchart Registrasi**
+<summary>Flowchart Registrasi</summary>
 
 ![Flowchart](Gambar/Menu-Daftar-Akun.png)
 
