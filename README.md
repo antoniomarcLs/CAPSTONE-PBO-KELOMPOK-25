@@ -335,7 +335,7 @@ Admin dapat melihat review yang telah dikirim oleh pengguna dan menghapus review
 
 Admin dapat membuat kuesioner baru dengan mengisi judul, deskripsi, dan pertanyaan. Admin juga dapat melihat serta mengubah kuesioner yang sudah tersedia.
 
-![Program](Gambar/Kuesioner-Admin.png)
+![Program](Gambar/KuesionerAdmin.png)
 
 ### 8.13 Logout
 
