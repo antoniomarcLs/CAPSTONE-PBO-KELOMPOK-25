@@ -88,39 +88,39 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 
 **Flowchart Registrasi**
 
-![Gambar/Menu-Daftar-Akun.png]
+![Flowchart](Gambar/Menu-Daftar-Akun.png)
 
 **Flowchart Login**
 
-![Gambar/Menu-Login.png]
+![Flowchart](Gambar/Menu-Login.png)
 
 **Flowchart Menu Admin**
 
-![Gambar/Menu-Utama-Admin.png]
+![Flowchart](Gambar/Menu-Utama-Admin.png)
 
 **Flowchart Menu Review Admin**
 
-![Gambar/Menu-Review-Admin.png]
+![Flowchart](Gambar/Menu-Review-Admin.png)
 
 **Flowchart Menu Kuisioner Admin**
 
-![Gambar/Menu-Kuesioner-Admin.png]
+![Flowchart](Gambar/Menu-Kuesioner-Admin.png)
 
 **Flowchart Menu Pelanggan**
 
-![Gambar/Menu-Utama-pelanggan.png]
+![Flowchart](Gambar/Menu-Utama-pelanggan.png)
 
 **Flowchart Menu Upvote Pelanggan**
 
-![Gambar/Menu-Upvote-Pelanggan.png]
+![Flowchart](Gambar/Menu-Upvote-Pelanggan.png)
 
 **Flowchart Menu Kuesioner Pelanggan**
 
-![Gambar/Menu-Kuesioner-Pelanggan.png]
+![Flowchart](Gambar/Menu-Kuesioner-Pelanggan.png)
 
 **Flowchart Menu Review Pelanggan**
 
-!(Gambar/Menu-Review-Pelanggan.png)
+![Flowchart](Gambar/Menu-Review-Pelanggan.png)
 
 ### 5.2 Use Case Diagram
 
