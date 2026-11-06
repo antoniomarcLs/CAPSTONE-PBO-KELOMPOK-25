@@ -256,7 +256,11 @@ Dengan pemisahan tersebut, class tampilan tidak perlu mengetahui seluruh detail 
 
 Saat aplikasi pertama kali dijalankan, sistem menampilkan splash screen dan loading sebelum membuka halaman login.
 
-<img width="977" height="605" alt="image" src="https://github.com/user-attachments/assets/a1542a39-b4ad-4446-b9f6-ddefd42137c4" />
+### 8.2 Splash Screen dan Loading
+
+Saat aplikasi pertama kali dijalankan, sistem menampilkan splash screen dan loading sebelum membuka halaman login.
+
+![Splash Screen](Gambar/splash-screen.png)
 
 
 ### 8.3 Halaman Login
