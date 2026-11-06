@@ -74,6 +74,7 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 | JSON library | Jackson Databind | Membaca dan mengolah respons JSON dari API wilayah. |
 | API eksternal | Wilayah.web.id | Mengambil data provinsi, kabupaten/kota, dan kecamatan di Indonesia. |
 | Java API | Java Time, Java HTTP Client, SwingWorker | Mengelola tanggal/waktu, permintaan HTTP, dan proses latar belakang pada GUI. |
+| API eksternal | https://github.com/LGoodDatePicker/LGoodDatePicker | Mengambil nilai tanggal dalam bentul kalender. |
 
 
 
