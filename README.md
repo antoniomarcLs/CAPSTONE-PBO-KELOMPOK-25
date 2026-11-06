@@ -159,13 +159,13 @@ Aktor pada aplikasi Feedback FIBER terdiri dari:
 - **User:** melakukan registrasi dan login, melihat profil, mengirim review, memilih mode anonim, melihat review, memberikan atau membatalkan upvote, mengisi kuesioner, serta melihat histori feedback.
 - **Admin:** login, melihat dan mengelola review, menghapus review, membuat dan mengubah kuesioner, serta melihat aktivitas pengelolaan.
 
-[Use Case Diagram Feedback FIBER]
+![Use Case Diagram Feedback FIBER](Gambar/UseCase_PA_Fiber.png)
 
 ### 5.3 Entity Relationship Diagram (ERD)
 
 ERD menggambarkan hubungan antarentitas yang digunakan untuk menyimpan data aplikasi Feedback FIBER. Diagram ERD disesuaikan dengan struktur database yang digunakan pada project.
 
-[ERD Feedback FIBER]
+![ERD Feedback FIBER](Gambar/LOGICAL_PA_FIBER.png)
 
 
 ## 6. Struktur Folder/Package
