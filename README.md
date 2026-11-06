@@ -135,9 +135,14 @@ Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan 
 ![Flowchart](Gambar/Menu-Upvote-Pelanggan.png)
 
 </details>
+
+<details>
 <summary><b>Menu Kuesioner Pelanggan</b></summary>
 
 ![Flowchart](Gambar/Menu-Kuesioner-Pelanggan.png)
+
+</details>
+
 
 <details>
 <summary><b>Menu Review Pelanggan</b></summary>
