@@ -86,42 +86,64 @@ Bagian ini berisi dokumentasi rancangan sistem Feedback FIBER.
 
 Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan sampai fitur digunakan oleh User maupun Admin.
 
-
-<summary>Flowchart Registrasi</summary>
+<details>
+   
+<summary><b>Flowchart Registrasi</b></summary>
 
 ![Flowchart](Gambar/Menu-Daftar-Akun.png)
 
-**Flowchart Login**
+</details>
+
+<details>
+<summary><b>Flowchart Login</b></summary>
 
 ![Flowchart](Gambar/Menu-Login.png)
 
-**Flowchart Menu Admin**
+</details>
+
+<details>
+<summary><b>Flowchart Admin</b></summary>
 
 ![Flowchart](Gambar/Menu-Utama-Admin.png)
 
-**Flowchart Menu Review Admin**
+</details>
+
+<details>
+<summary><b>Flowchart Review</b></summary>
 
 ![Flowchart](Gambar/Menu-Review-Admin.png)
 
-**Flowchart Menu Kuisioner Admin**
+</details>
+
+<details>
+<summary><b>Flowchart Kuesioner Admin</b></summary>
 
 ![Flowchart](Gambar/Menu-Kuesioner-Admin.png)
 
-**Flowchart Menu Pelanggan**
+</details>
+
+<details>
+<summary><b>Menu Pelanggan</b></summary>
 
 ![Flowchart](Gambar/Menu-Utama-pelanggan.png)
 
-**Flowchart Menu Upvote Pelanggan**
+</details>
+
+<details>
+<summary><b>Menu Upvote Pelanggan</b></summary>
 
 ![Flowchart](Gambar/Menu-Upvote-Pelanggan.png)
 
-**Flowchart Menu Kuesioner Pelanggan**
+</details>
+<summary><b>Menu Kuesioner Pelanggan</b></summary>
 
 ![Flowchart](Gambar/Menu-Kuesioner-Pelanggan.png)
 
-**Flowchart Menu Review Pelanggan**
+<details>
+<summary><b>Menu Review Pelanggan</b></summary>
 
 ![Flowchart](Gambar/Menu-Review-Pelanggan.png)
+</details>
 
 ### 5.2 Use Case Diagram
 
