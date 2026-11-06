@@ -86,33 +86,41 @@ Bagian ini berisi dokumentasi rancangan sistem Feedback FIBER.
 Flowchart digunakan untuk menjelaskan alur proses aplikasi dari awal dijalankan sampai fitur digunakan oleh User maupun Admin.
 
 
-**Flowchart Menu Utama**
-
-[Flowchart Menu Utama]
-
 **Flowchart Registrasi**
 
-[Flowchart Registrasi]
+[Gambar/Menu-Daftar-Akun.png]
 
 **Flowchart Login**
 
-[Flowchart Login]
-
-**Flowchart Menu User**
-
-[Flowchart Menu User]
+[Gambar/Menu-Login.png]
 
 **Flowchart Menu Admin**
 
-[Flowchart Menu Admin]
+[Gambar/Menu-Utama-Admin.png]
 
-**Flowchart Pengelolaan Review dan Upvote**
+**Flowchart Menu Review Admin**
 
-[Flowchart Review dan Upvote]
+[Gambar/Menu-Review-Admin.png]
 
-**Flowchart Pengelolaan Kuesioner**
+**Flowchart Menu Kuisioner Admin**
 
-[Flowchart Kuesioner]
+[Gambar/Menu-Kuesioner-Admin.png]
+
+**Flowchart Menu Pelanggan**
+
+[Gambar/Menu-Utama-pelanggan.png]
+
+**Flowchart Menu Upvote Pelanggan**
+
+[Gambar/Menu-Upvote-Pelanggan.png]
+
+**Flowchart Menu Kuesioner Pelanggan**
+
+[Gambar/Menu-Kuesioner-Pelanggan.png]
+
+**Flowchart Menu Review Pelanggan**
+
+[Gambar/Menu-Review-Pelanggan.png]
 
 ### 5.2 Use Case Diagram
 
