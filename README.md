@@ -260,7 +260,7 @@ Saat aplikasi pertama kali dijalankan, sistem menampilkan splash screen dan load
 
 Saat aplikasi pertama kali dijalankan, sistem menampilkan splash screen dan loading sebelum membuka halaman login.
 
-![Splash Screen](Gambar/splash-screen.png)
+![Program](Gambar/splash-screen.png)
 
 
 ### 8.3 Halaman Login
@@ -269,19 +269,19 @@ Halaman login digunakan oleh User maupun Admin untuk masuk ke aplikasi. Pengguna
 
 Jika data sesuai, sistem akan mengarahkan pengguna ke menu berdasarkan role akun.
 
-[Halaman Login]
+![Program](Gambar/login.png)
 
 ### 8.4 Halaman Registrasi
 
 Pengguna yang belum memiliki akun dapat memilih menu registrasi. Pengguna mengisi data diri, tanggal lahir, gender, domisili, password, serta memilih jenis identitas yang akan digunakan, yaitu akun FIBER, email, atau nomor telepon.
 
-[Halaman Registrasi]
+![Program](Gambar/registrasi.png)
 
 ### 8.5 Menu User
 
 Setelah berhasil login sebagai User, pengguna akan masuk ke halaman Menu User. Pada halaman ini tersedia akses menuju fitur review, upvote, kuesioner, dan profil.
 
-[Menu User]
+![Program](Gambar/menu-user.png)
 
 ### 8.6 Mengirim Review
 
@@ -289,13 +289,15 @@ Pengguna dapat membuka fitur review dan menuliskan pendapat atau masukan mengena
 
 Setelah review dikirim, sistem akan menyimpan data ke database.
 
-[Form Review User]
+![Program](Gambar/form-review.png)
 
 ### 8.7 Melihat Review dan Memberikan Upvote
 
 Pengguna dapat melihat review yang tersedia dan memberikan upvote sebagai bentuk dukungan terhadap review tertentu. Pengguna juga dapat membatalkan upvote yang telah diberikan.
 
-[Daftar Review dan Upvote]
+![Program](Gambar/melihat-review.png)
+
+![Program](Gambar/memberi-upvote.png)
 
 ### 8.8 Mengisi Kuesioner
 
@@ -309,31 +311,31 @@ Pengguna dapat memilih kuesioner yang tersedia, membaca pertanyaan, kemudian mem
 
 Setelah seluruh pertanyaan dijawab, pengguna dapat menyimpan jawaban.
 
-[Form Kuesioner User]
+![Program](Gambar/Form-Kuesioner-User.png)
 
 ### 8.9 Melihat Histori Feedback
 
 Pengguna dapat melihat histori review yang pernah dikirim serta histori pengisian kuesioner. Informasi histori kuesioner mencakup tanggal pengisian, jumlah jawaban, dan nilai rata-rata.
 
-[Histori Feedback]
+![Program](Gambar/Histori-Feedback.png)
 
 ### 8.10 Menu Admin
 
 Admin yang berhasil login akan diarahkan ke halaman Menu Admin. Menu ini menyediakan akses untuk mengelola review dan kuesioner.
 
-[Menu Admin]
+![Program](Gambar/Menu-Admin.png)
 
 ### 8.11 Mengelola Review
 
 Admin dapat melihat review yang telah dikirim oleh pengguna dan menghapus review sesuai kebutuhan pengelolaan aplikasi.
 
-[Kelola Review Admin]
+![Program](Gambar/Kelola-Review-Admin.png)
 
 ### 8.12 Mengelola Kuesioner
 
 Admin dapat membuat kuesioner baru dengan mengisi judul, deskripsi, dan pertanyaan. Admin juga dapat melihat serta mengubah kuesioner yang sudah tersedia.
 
-[Kelola Kuesioner Admin]
+![Program](Gambar/Kelola-Kuesioner- Admin.png)
 
 ### 8.13 Logout
 
