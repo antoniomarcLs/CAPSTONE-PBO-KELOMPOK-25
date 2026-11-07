@@ -257,13 +257,7 @@ FeedbackFIBER/
                     ├── UI.java
                     └── UI.form
 ```
-
-Project dibuat menggunakan Java dengan struktur package ...
-
 Project dibuat menggunakan Java dengan struktur package untuk memisahkan bagian tampilan, pengendali proses, model data, dan konfigurasi koneksi database.
-
-Penjelasan Struktur Packages
-gatau cara upload gambar 
 
 ### Penjelasan Package
 
