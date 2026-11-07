@@ -352,10 +352,6 @@ Dengan pemisahan tersebut, class tampilan tidak perlu mengetahui seluruh detail 
 
 Saat aplikasi pertama kali dijalankan, sistem menampilkan splash screen dan loading sebelum membuka halaman login.
 
-### 8.2 Splash Screen dan Loading
-
-Saat aplikasi pertama kali dijalankan, sistem menampilkan splash screen dan loading sebelum membuka halaman login.
-
 ![Program](Gambar/splash-screen.png)
 
 
