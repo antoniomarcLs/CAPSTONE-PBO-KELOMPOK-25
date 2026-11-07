@@ -16,10 +16,15 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 - Menampilkan halaman pembuka sebelum pengguna masuk ke aplikasi.
 - Melanjutkan proses ke halaman login setelah loading selesai.
 
+![Program](Gambar/splash-screen.png)
+
+
 ### 3.2 Login
 - Pengguna dapat masuk menggunakan akun FIBER, alamat email, atau nomor telepon.
 - Sistem memeriksa identitas dan password sebelum memberikan akses.
 - Sistem mengarahkan pengguna ke halaman sesuai role, yaitu User atau Admin.
+
+![Program](Gambar/login.png)
 
 ### 3.3 Registrasi Akun
 - Pengguna dapat membuat akun baru.
@@ -27,6 +32,8 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 - Registrasi mendukung pilihan identitas berupa akun FIBER, email, atau nomor telepon.
 - Data wilayah seperti provinsi, kabupaten/kota, dan kecamatan dapat dipilih melalui layanan API wilayah Indonesia.
 - Sistem melakukan validasi data dan memeriksa identitas agar tidak digunakan oleh akun lain.
+
+![Program](Gambar/registrasi.png)
 
 ### 3.4 Menu User
 - Menampilkan halaman utama pengguna dan informasi profil.
@@ -36,12 +43,16 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 - Pengguna dapat mengisi kuesioner kepuasan yang tersedia.
 - Menampilkan histori feedback dan histori pengisian kuesioner milik pengguna.
 
+![Program](Gambar/menu-user.png)
+
 ### 3.5 Menu Admin
 - Menampilkan halaman utama Admin.
 - Admin dapat melihat dan mengelola review yang dikirim oleh pengguna.
 - Admin dapat menghapus review sesuai kebutuhan pengelolaan.
 - Admin dapat membuat, melihat, dan mengubah kuesioner beserta pertanyaannya.
 - Menyediakan pencatatan aktivitas Admin selama sesi berlangsung.
+
+![Program](Gambar/Menu-Admin.png)
 
 ### 3.6 Review dan Upvote
 - Review disimpan ke database dan ditampilkan kepada pengguna.
@@ -50,16 +61,26 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 - Pengguna dapat membatalkan upvote yang sebelumnya diberikan.
 - Sistem memeriksa agar pengguna dapat mengetahui apakah review sudah pernah di-upvote.
 
+![Program](Gambar/melihat-review.png)
+
+![Program](Gambar/memberi-upvote.png)
+
+
 ### 3.7 Kuesioner Kepuasan
 - Admin dapat membuat kuesioner yang berisi judul, deskripsi, dan daftar pertanyaan.
 - Pengguna dapat memilih jawaban menggunakan skala 1-5, mulai dari **Sangat Tidak Puas** sampai **Sangat Puas**.
 - Sistem menyimpan jawaban beserta tanggal pengisian.
 - Pengguna dapat melihat histori kuesioner yang pernah diisi, termasuk jumlah jawaban dan nilai rata-rata.
 
+![Program](Gambar/Form-Kuesioner-User.png)
+
+
 ### 3.8 Profil dan Logout
 - Pengguna dapat melihat informasi akun dan domisili.
 - Pengguna dapat mengakhiri sesi melalui tombol logout.
 - Setelah logout, aplikasi mengarahkan pengguna kembali ke halaman login.
+
+![Program](Gambar/logout.png)
 
 ## 4. Tech Stack
 
