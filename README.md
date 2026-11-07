@@ -170,6 +170,57 @@ ERD menggambarkan hubungan antarentitas yang digunakan untuk menyimpan data apli
 
 ## 6. Struktur Folder/Package
 
+FeedbackFIBER/
+│
+├── pom.xml
+│
+└── src/
+    └── main/
+        └── java/
+            └── com/mycompany/feedbackfiber/
+                │
+                ├── Main.java
+                │
+                ├── config/
+                │   └── Koneksi.java
+                │
+                ├── controller/
+                │   ├── AuthController.java
+                │   ├── KuesionerController.java
+                │   ├── ReviewController.java
+                │   └── Session.java
+                │
+                ├── model/
+                │   ├── AdminActivity.java
+                │   ├── HistoriKuesioner.java
+                │   ├── IdGenerator.java
+                │   ├── IdentityMethod.java
+                │   ├── Kuesioner.java
+                │   ├── KuesionerModel.java
+                │   ├── Pertanyaan.java
+                │   ├── Review.java
+                │   ├── ReviewModel.java
+                │   ├── User.java
+                │   ├── UserModel.java
+                │   ├── Validator.java
+                │   └── WilayahService.java
+                │
+                └── view/
+                    ├── LoadingScreen.java / .form
+                    ├── SplashScreen.java / .form
+                    ├── LoginView.java / .form
+                    ├── RegisterView.java / .form
+                    ├── DashboardFrame.java / .form
+                    ├── UserMenuView.java / .form
+                    ├── AdminMenuView.java / .form
+                    ├── KuesionerAdminDialog.java / .form
+                    ├── KuesionerFormDialog.java / .form
+                    ├── KuesionerUserDialog.java / .form
+                    ├── ReviewAdminDialog.java / .form
+                    ├── ReviewUserDialog.java / .form
+                    ├── UpvoteDialog.java / .form
+                    └── UI.java / .form
+
 Project dibuat menggunakan Java dengan struktur package untuk memisahkan bagian tampilan, pengendali proses, model data, dan konfigurasi koneksi database.
 
 Penjelasan Struktur Packages
