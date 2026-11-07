@@ -184,11 +184,57 @@ FeedbackFIBER/
                 │
                 ├── config/
                 │   └── Koneksi.java
-                ...
+                │
+                ├── controller/
+                │   ├── AuthController.java
+                │   ├── KuesionerController.java
+                │   ├── ReviewController.java
+                │   └── Session.java
+                │
+                ├── model/
+                │   ├── AdminActivity.java
+                │   ├── HistoriKuesioner.java
+                │   ├── IdGenerator.java
+                │   ├── IdentityMethod.java
+                │   ├── Kuesioner.java
+                │   ├── KuesionerModel.java
+                │   ├── Pertanyaan.java
+                │   ├── Review.java
+                │   ├── ReviewModel.java
+                │   ├── User.java
+                │   ├── UserModel.java
+                │   ├── Validator.java
+                │   └── WilayahService.java
+                │
                 └── view/
-                    ├── LoadingScreen.java / .form
-                    ...
-                    └── UI.java / .form
+                    ├── LoadingScreen.java
+                    ├── LoadingScreen.form
+                    ├── SplashScreen.java
+                    ├── SplashScreen.form
+                    ├── LoginView.java
+                    ├── LoginView.form
+                    ├── RegisterView.java
+                    ├── RegisterView.form
+                    ├── DashboardFrame.java
+                    ├── DashboardFrame.form
+                    ├── UserMenuView.java
+                    ├── UserMenuView.form
+                    ├── AdminMenuView.java
+                    ├── AdminMenuView.form
+                    ├── KuesionerAdminDialog.java
+                    ├── KuesionerAdminDialog.form
+                    ├── KuesionerFormDialog.java
+                    ├── KuesionerFormDialog.form
+                    ├── KuesionerUserDialog.java
+                    ├── KuesionerUserDialog.form
+                    ├── ReviewAdminDialog.java
+                    ├── ReviewAdminDialog.form
+                    ├── ReviewUserDialog.java
+                    ├── ReviewUserDialog.form
+                    ├── UpvoteDialog.java
+                    ├── UpvoteDialog.form
+                    ├── UI.java
+                    └── UI.form
 ```
 
 Project dibuat menggunakan Java dengan struktur package ...
