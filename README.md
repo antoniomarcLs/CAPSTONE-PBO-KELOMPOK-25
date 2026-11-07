@@ -33,7 +33,7 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 - Data wilayah seperti provinsi, kabupaten/kota, dan kecamatan dapat dipilih melalui layanan API wilayah Indonesia.
 - Sistem melakukan validasi data dan memeriksa identitas agar tidak digunakan oleh akun lain.
 
-![Program](Gambar/registrasi.png)
+![Program](Gambar/daftarAkun.png)
 
 ### 3.4 Menu User
 - Menampilkan halaman utama pengguna dan informasi profil.
@@ -43,7 +43,7 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 - Pengguna dapat mengisi kuesioner kepuasan yang tersedia.
 - Menampilkan histori feedback dan histori pengisian kuesioner milik pengguna.
 
-![Program](Gambar/menu-user.png)
+![Program](Gambar/menu-userr.png)
 
 ### 3.5 Menu Admin
 - Menampilkan halaman utama Admin.
@@ -52,7 +52,7 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 - Admin dapat membuat, melihat, dan mengubah kuesioner beserta pertanyaannya.
 - Menyediakan pencatatan aktivitas Admin selama sesi berlangsung.
 
-![Program](Gambar/Menu-Admin.png)
+![Program](Gambar/menuAdminn.png)
 
 ### 3.6 Review dan Upvote
 - Review disimpan ke database dan ditampilkan kepada pengguna.
@@ -382,13 +382,13 @@ Jika data sesuai, sistem akan mengarahkan pengguna ke menu berdasarkan role akun
 
 Pengguna yang belum memiliki akun dapat memilih menu registrasi. Pengguna mengisi data diri, tanggal lahir, gender, domisili, password, serta memilih jenis identitas yang akan digunakan, yaitu akun FIBER, email, atau nomor telepon.
 
-![Program](Gambar/registrasi.png)
+![Program](Gambar/daftarAkun.png)
 
 ### 8.5 Menu User
 
 Setelah berhasil login sebagai User, pengguna akan masuk ke halaman Menu User. Pada halaman ini tersedia akses menuju fitur review, upvote, kuesioner, dan profil.
 
-![Program](Gambar/menu-user.png)
+![Program](Gambar/menu-userr.png)
 
 ### 8.6 Mengirim Review
 
@@ -430,7 +430,7 @@ Pengguna dapat melihat histori review yang pernah dikirim serta histori pengisia
 
 Admin yang berhasil login akan diarahkan ke halaman Menu Admin. Menu ini menyediakan akses untuk mengelola review dan kuesioner.
 
-![Program](Gambar/Menu-Admin.png)
+![Program](Gambar/menuAdminn.png)
 
 ### 8.11 Mengelola Review
 
