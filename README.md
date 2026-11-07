@@ -61,7 +61,7 @@ Aplikasi menyediakan dua jenis hak akses, yaitu **User** dan **Admin**. User dap
 - Pengguna dapat membatalkan upvote yang sebelumnya diberikan.
 - Sistem memeriksa agar pengguna dapat mengetahui apakah review sudah pernah di-upvote.
 
-![Program](Gambar/melihat-review.png)
+![Program](Gambar/form-review.png)
 
 ![Program](Gambar/memberi-upvote.png)
 
